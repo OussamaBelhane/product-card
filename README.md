@@ -9,9 +9,6 @@ A React Native application demonstrating a "Product Card" component and a "Produ
 -   **Total Price Panel**: A sticky panel at the top that updates the total price when products are "bought".
 -   **Responsive Design**: Uses Flexbox for layout, avoiding absolute positioning.
 
-## Screenshots
-
-*(Add screenshots here)*
 
 ## Installation
 
